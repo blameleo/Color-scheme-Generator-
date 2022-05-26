@@ -64,6 +64,7 @@ span {
     color: white;
     width: 80%;
     margin: 0 auto;
+    font-size: 10px;
 }
 
 @media (max-width: 420px){
